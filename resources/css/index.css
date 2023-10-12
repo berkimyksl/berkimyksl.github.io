@@ -52,7 +52,7 @@ nav span {
 
 #mission {
     height: 700px;
-    background-image: url("./images/img-mission-background.png");
+    background-image: url("https://github.com/berkimyksl/berkimyksl.github.io/blob/main/resources/images/img-mission-background.png");
     padding-top: 70px;
     background-size: auto;
     background-repeat: no-repeat;
@@ -92,7 +92,7 @@ nav span {
 
 #locations {
     height: 500px;
-    background-image: url("./images/img-locations-background.png");
+    background-image: url("https://github.com/berkimyksl/berkimyksl.github.io/blob/main/resources/images/img-locations-background.png");
     padding-top: 70px;
     background-repeat: no-repeat;
     background-position: center;
